@@ -13,9 +13,9 @@
  * @package           Awesomemap
  *
  * @wordpress-plugin
- * Plugin Name:       awesomemap
+ * Plugin Name:       Awesome Map
  * Plugin URI:        https://github.com/ericphamhoang/awesomemap
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Support Google Map ideas for web development
  * Version:           1.0.0
  * Author:            Eric Pham Hoang
  * Author URI:        https://github.com/ericphamhoang
